@@ -1,2 +1,2 @@
 #Hackathon Prototyping
-Rapid development, quick and dirty! Be fast or drawn :-)
+Rapid development, quick and dirty! Sink or swim!
