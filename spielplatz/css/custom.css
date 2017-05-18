@@ -109,6 +109,7 @@ body {
 }
 
 .sidenav {
+    display:none;
     height: 100%;
     width: 0;
     position: fixed;
@@ -119,6 +120,8 @@ body {
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .sidenav a {
@@ -160,10 +163,6 @@ body {
     color: white;
     transition: opacity 12s ease-in;
 
-}
-
-.sideforms{
-    margin: 15px;
 }
 
 table {
@@ -212,4 +211,8 @@ th {
     margin-right: auto;
     margin-top: 50px;
     background-image: url("/resources/qrcode.png");
+}
+
+#routing-form button {
+  width: 50%;
 }
